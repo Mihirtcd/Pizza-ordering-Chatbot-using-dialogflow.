@@ -1,0 +1,39 @@
+{
+  "id": "fe1f533f-88e7-4225-80f3-5f816ff34d09",
+  "parentId": "20c11647-a2ef-4ed8-934a-f103fb37851d",
+  "rootParentId": "20c11647-a2ef-4ed8-934a-f103fb37851d",
+  "name": "pizzaBot - no",
+  "auto": true,
+  "contexts": [
+    "pizzaBot-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pizzaBot.pizzaBot-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "ok thank you ,pizza is ordered for you."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

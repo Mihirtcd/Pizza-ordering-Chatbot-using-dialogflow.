@@ -1,0 +1,32 @@
+[
+  {
+    "value": "cheese",
+    "synonyms": [
+      "cheese"
+    ]
+  },
+  {
+    "value": "cajun",
+    "synonyms": [
+      "cajun"
+    ]
+  },
+  {
+    "value": "meatballs",
+    "synonyms": [
+      "meatballs"
+    ]
+  },
+  {
+    "value": "paneer cheese",
+    "synonyms": [
+      "paneer cheese"
+    ]
+  },
+  {
+    "value": "spicy",
+    "synonyms": [
+      "spicy"
+    ]
+  }
+]
